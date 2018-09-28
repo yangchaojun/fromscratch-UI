@@ -1,0 +1,13 @@
+.testing {
+  width: 71.42857%;
+  height: 300px;
+  background-color: #f47; }
+  .testing .tree {
+    height: 14.28571%; }
+
+body {
+  margin: 0;
+  padding: 0; }
+
+.print {
+  padding: 0 10px; }
